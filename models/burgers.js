@@ -1,3 +1,5 @@
+var Sequelize = require("sequelize");
+
 module.exports = function(sequelize, DataTypes) {
   var burgers = sequelize.define("burgers", {
     
@@ -15,4 +17,5 @@ module.exports = function(sequelize, DataTypes) {
     
   return burgers;
 };
+
 
