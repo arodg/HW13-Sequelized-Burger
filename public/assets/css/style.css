@@ -1,0 +1,23 @@
+body {
+	background-color: lightskyblue;
+}
+
+img {
+	padding-left: 150px;
+}
+
+h1 {
+	text-align: center;
+}
+
+h1,h2 {
+	text-decoration: underline;
+}
+
+h4 {
+	font-style: italic;
+}
+
+.col-md-6 {
+	padding-left: 100px;
+}
