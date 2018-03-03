@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": "",
-    "database": "burgers_db",
+    "database": "sequelBurgers_db",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
@@ -16,7 +16,7 @@
   "production": {
     "username": "eirh4clsct5ehzre",
     "password": "icv9u0p71r5afocy",
-    "database": "database_production",
+    "database": "twycgmtf6l4q6pbz",
     "host": "ysp9sse09kl0tzxj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
